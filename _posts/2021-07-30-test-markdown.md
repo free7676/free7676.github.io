@@ -1,14 +1,16 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
+title: 안녕하세요. free7676입니다.
+subtitle: 청년일자리 1,000개의 꿈 웹프로그래밍 참여자입니다.
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: []
 comments: true
 ---
 
-This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+청년일자리 1,000개의 꿈 웹프로그래밍 참여자입니다.
+Github에서 개인 포토폴리오를 제작하였습니다.
+사업기간동안 참여한 프로젝트도 게시했습니다.
 
 **Here is some bold text**
 
