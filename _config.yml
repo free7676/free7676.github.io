@@ -40,11 +40,11 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "minhyeok.kim_seoul2021@techsoupkorea.kr"
-  facebook: none
+# facebook: none
   github: "https://free7676.github.io/"
-  twitter: none
-  patreon: none
-  youtube: none
+# twitter: none
+# patreon: none
+# youtube: none
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
@@ -71,8 +71,8 @@ rss-description: 청년일자리 1,000개의 꿈 웹프로그래밍 참여자입
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
+  twitter: True
+  facebook: True
   linkedin: false
   vk: false
 
